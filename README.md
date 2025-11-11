@@ -1,3 +1,12 @@
+I have great respect for those who have come before, but we need to move on from Python 2 once and for all.
+I did not feel comfortable installing Python 2 just so I could read Physics Today more easily, so I made a fork
+to continue maintenance.
+
+All credit goes to the original creators, feel free to open issues if you find problems, and Pull Requests are Open!
+
+ClariNerd617
+---
+
 Since there's no good universal daemon for convertible laptops yet, and
 since I had to make the edits to AdmiralAkber's original code to get my
 own laptop working, I've posted them here to help others. This works
