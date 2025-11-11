@@ -5,6 +5,7 @@ to continue maintenance.
 All credit goes to the original creators, feel free to open issues if you find problems, and Pull Requests are Open!
 
 ClariNerd617
+
 ---
 
 Since there's no good universal daemon for convertible laptops yet, and
